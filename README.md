@@ -4,7 +4,7 @@
 **Project Title**:
 
 **Project Description**:
-
+Create a movie recommendation system that suggests movies to users based on their preferences and viewing history.
 **Project Goals**:
 
 ## Instructions for Build and Use
