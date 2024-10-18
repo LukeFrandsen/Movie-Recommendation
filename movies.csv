@@ -1,4 +1,103 @@
 Title,Genre,Rating,Release Year
 Inception,Sci-Fi,8.8,2010
-John Wick,Action,7.4,2014
+The Dark Knight,Action,9.0,2008
+Forrest Gump,Drama,8.8,1994
 The Matrix,Sci-Fi,8.7,1999
+The Shawshank Redemption,Drama,9.3,1994
+Pulp Fiction,Crime,8.9,1994
+Fight Club,Drama,8.8,1999
+The Godfather,Crime,9.2,1972
+The Lord of the Rings: The Return of the King,Fantasy,9.0,2003
+Avengers: Endgame,Action,8.4,2019
+The Lion King,Animation,8.5,1994
+Interstellar,Sci-Fi,8.6,2014
+Gladiator,Action,8.5,2000
+Saving Private Ryan,War,8.6,1998
+Jurassic Park,Adventure,8.1,1993
+Titanic,Romance,7.9,1997
+The Silence of the Lambs,Thriller,8.6,1991
+Schindler's List,Drama,9.0,1993
+Braveheart,Action,8.3,1995
+The Social Network,Biography,7.8,2010
+Mad Max: Fury Road,Action,8.1,2015
+The Avengers,Action,8.0,2012
+Toy Story,Animation,8.3,1995
+Finding Nemo,Animation,8.2,2003
+WALL·E,Animation,8.4,2008
+Up,Animation,8.2,2009
+Shrek,Animation,7.9,2001
+Spider-Man: Into the Spider-Verse,Animation,8.4,2018
+Coco,Animation,8.4,2017
+The Incredibles,Animation,8.0,2004
+Guardians of the Galaxy,Action,8.0,2014
+Logan,Action,8.1,2017
+The Terminator,Sci-Fi,8.0,1984
+The Empire Strikes Back,Sci-Fi,8.7,1980
+Star Wars: A New Hope,Sci-Fi,8.6,1977
+The Prestige,Drama,8.5,2006
+Se7en,Thriller,8.6,1995
+Whiplash,Drama,8.5,2014
+Django Unchained,Western,8.4,2012
+The Wolf of Wall Street,Comedy,8.2,2013
+American Beauty,Drama,8.4,1999
+A Beautiful Mind,Biography,8.2,2001
+Black Panther,Action,7.3,2018
+Joker,Thriller,8.4,2019
+Parasite,Thriller,8.6,2019
+The Irishman,Crime,7.9,2019
+The Departed,Crime,8.5,2006
+Casino,Crime,8.2,1995
+Goodfellas,Crime,8.7,1990
+Heat,Crime,8.3,1995
+No Country for Old Men,Crime,8.2,2007
+The Grand Budapest Hotel,Comedy,8.1,2014
+Birdman,Comedy,7.7,2014
+The Revenant,Drama,8.0,2015
+12 Years a Slave,Biography,8.1,2013
+Slumdog Millionaire,Drama,8.0,2008
+The Big Lebowski,Comedy,8.1,1998
+Amélie,Comedy,8.3,2001
+The Truman Show,Comedy,8.2,1998
+Eternal Sunshine of the Spotless Mind,Romance,8.3,2004
+La La Land,Musical,8.0,2016
+A Star Is Born,Musical,7.6,2018
+Les Misérables,Musical,7.6,2012
+The Pianist,Biography,8.5,2002
+Moonlight,Drama,7.4,2016
+The Shape of Water,Fantasy,7.3,2017
+Pan's Labyrinth,Fantasy,8.2,2006
+Her,Sci-Fi,8.0,2013
+Blade Runner 2049,Sci-Fi,8.0,2017
+The Hunger Games,Adventure,7.2,2012
+Gravity,Sci-Fi,7.7,2013
+The Martian,Sci-Fi,8.0,2015
+Arrival,Sci-Fi,7.9,2016
+The Conjuring,Horror,7.5,2013
+Get Out,Horror,7.7,2017
+A Quiet Place,Horror,7.5,2018
+It,Horror,7.3,2017
+Halloween,Horror,7.8,1978
+The Exorcist,Horror,8.1,1973
+Jaws,Thriller,8.1,1975
+Scream,Horror,7.4,1996
+Alien,Sci-Fi,8.5,1979
+Aliens,Sci-Fi,8.4,1986
+Indiana Jones and the Last Crusade,Adventure,8.2,1989
+Indiana Jones: Raiders of the Lost Ark,Adventure,8.4,1981
+Pirates of the Caribbean: The Curse of the Black Pearl,Adventure,8.1,2003
+Frozen,Animation,7.4,2013
+Zootopia,Animation,8.0,2016
+Beauty and the Beast,Fantasy,8.0,1991
+Moana,Animation,7.6,2016
+Harry Potter and the Sorcerer's Stone,Fantasy,7.6,2001
+The Twilight Saga: New Moon,Fantasy,4.7,2009
+Twilight,Fantasy,5.2,2008
+Mean Girls,Comedy,7.1,2004
+The Breakfast Club,Comedy,7.8,1985
+Ferris Bueller's Day Off,Comedy,7.8,1986
+Home Alone,Comedy,7.7,1990
+Elf,Comedy,7.0,2003
+The Hangover,Comedy,7.7,2009
+Superbad,Comedy,7.6,2007
+Crazy Rich Asians,Comedy,6.9,2018
+Knives Out,Comedy,7.9,2019
